@@ -307,6 +307,7 @@ nav li a:hover {
     display: flex;
     justify-content: center;
     border: 1px solid #333;
+    padding: 1rem;
 }
 
 .about-education-tts,

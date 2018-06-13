@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="719604e2-b913-4d2a-9e07-0d4cffa1da1c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+            <state relative-caret-position="390">
+              <caret line="309" column="18" selection-start-line="309" selection-start-column="18" selection-end-line="309" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -161,25 +159,25 @@
       <updated>1523928063745</updated>
       <workItem from="1523928065237" duration="697000" />
       <workItem from="1526238676401" duration="3721000" />
-      <workItem from="1528891758236" duration="933000" />
+      <workItem from="1528891758236" duration="1082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5351000" />
+    <option name="totallyTimeSpent" value="5500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="23" width="2480" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.249695" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249695" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32924837" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32924837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -259,8 +257,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="232" column="18" selection-start-line="232" selection-start-column="18" selection-end-line="232" selection-end-column="18" />
+        <state relative-caret-position="390">
+          <caret line="309" column="18" selection-start-line="309" selection-start-column="18" selection-end-line="309" selection-end-column="18" />
         </state>
       </provider>
     </entry>
